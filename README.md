@@ -1,4 +1,5 @@
 # BEATS
+# **This project has been migrated to a new address: <https://github.com/buptantEEG/BEATS>, and subsequent updates will be submitted on the new address.**
 
 **B**UPT **E**EG **A**cquisition **T**ool **S**ystem
 
